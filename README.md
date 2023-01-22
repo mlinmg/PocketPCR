@@ -1,7 +1,9 @@
 # PocketPCR
-Pocket size USB powered PCR Thermo Cycler.
+Pocket size USB powered PCR Thermo Cycler. Completely customized and remade.
+Custom wrintings on the PCBs and custom software to be understandable for high school students.
 
-For more information see project website:
+##This is a fork, the the original project see those links:
+For more information on the original project see the original website:
 http://gaudi.ch/PocketPCR/
 
 Designed by GaudiLabs:
